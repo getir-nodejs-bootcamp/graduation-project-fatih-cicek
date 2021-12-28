@@ -7,7 +7,7 @@ https://patika-mfcicek-getir-casestudy.herokuapp.com/docs/
 ## Installation
 1. Clone the repo 
    ```
-    git clone https://github.com/mfcicek/patika.dev-getir-casestudy.git
+    git clone https://github.com/getir-nodejs-bootcamp/graduation-project-fatih-cicek
    ```
 2. Install NPM packages
    ```
